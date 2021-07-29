@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Naki\Documents\ws-springboot\microservicios1\.metadata\.plugins\org.eclipse.jdt.core
+2101278773.index

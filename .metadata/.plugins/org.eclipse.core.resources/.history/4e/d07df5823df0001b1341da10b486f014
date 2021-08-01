@@ -1,5 +1,0 @@
-package com.udemy.springboot.servicio.productos.models.entity;
-
-public class Producto {
-
-}

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import com.udemy.springboot.servicio.item.models.Item;
 import com.udemy.springboot.servicio.item.models.Producto;
 
-@FeignClient(name="servicio-productos",url="localhost:8001")
+@FeignClient(name="servicio-productos")
 public interface ProductoClientesRest {
 
 	@GetMapping("/listar")

@@ -7,7 +7,7 @@ public class Producto {
 	private int id;
 	private String nombre;
 	private Double precio;
-	private Date create_at;
+	private Date createAt;
 	public int getId() {
 		return id;
 	}
@@ -26,11 +26,22 @@ public class Producto {
 	public void setPrecio(Double precio) {
 		this.precio = precio;
 	}
-	public Date getCreate_at() {
-		return create_at;
+	public Date getCreateAt() {
+		return createAt;
 	}
-	public void setCreate_at(Date create_at) {
-		this.create_at = create_at;
+	public void setCreateAt(Date createAt) {
+		this.createAt = createAt;
+	}
+	public Producto(int id, String nombre, Double precio, Date createAt) {
+		super();
+		this.id = id;
+		this.nombre = nombre;
+		this.precio = precio;
+		this.createAt = createAt;
+	}
+	public Producto() {
+		super();
+		// TODO Auto-generated constructor stub
 	}
 
 }

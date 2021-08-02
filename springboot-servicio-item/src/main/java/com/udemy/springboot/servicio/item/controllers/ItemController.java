@@ -15,7 +15,7 @@ import com.udemy.springboot.servicio.item.models.services.itemService;
 public class ItemController {
 	
 	@Autowired
-	@Qualifier("serviceFeign")
+	@Qualifier("serviceFeign") // probamos balance del serviceRestTemplate
 	private itemService itemservice;
 	
 	@GetMapping("/listar")

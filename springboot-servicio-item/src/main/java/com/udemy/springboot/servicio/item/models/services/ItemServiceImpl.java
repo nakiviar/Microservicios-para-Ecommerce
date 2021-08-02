@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 import com.udemy.springboot.servicio.item.models.Item;
 import com.udemy.springboot.servicio.item.models.Producto;
 
-@Service
+@Service("serviceRestTemplate")
 public class ItemServiceImpl implements itemService {
 	
 	@Autowired
@@ -23,7 +23,8 @@ public class ItemServiceImpl implements itemService {
 	@Override
 	public List<Item> findAll() {
 		//clienteRest.getForObject("", Producto[].class); devuelve un arreglo, sin embargo lo convertimos en lista con Arrays.asList
-		List<Producto> listaProductos = Arrays.asList(clienteRest.getForObject("http://localhost:8001/listar", Producto[].class));
+		List<Producto> listaProductos = Arrays.asList(clienteRest.getForObject("http://servicio-productos/listar", Producto[].class));
+		// probamos balance del serviceRestTemplate:reemplazamos localhost:8001 por servicio-productos 
 		return listaProductos.stream().map(p ->  new Item(p, 1)).collect(Collectors.toList());
 	}
 
@@ -31,7 +32,7 @@ public class ItemServiceImpl implements itemService {
 	public Item findById(Long id, Integer cantidad) {
 		Map<String, String> pathVariables = new HashMap<String, String>();
 		pathVariables.put("id", id.toString());
-		Producto producto=clienteRest.getForObject("http://localhost:8001/ver/{id}", Producto.class,pathVariables);
+		Producto producto=clienteRest.getForObject("http://servicio-productos/ver/{id}", Producto.class,pathVariables);
 		return new Item(producto,cantidad);
 	}
 

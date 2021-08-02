@@ -6338,3 +6338,342 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-08-01 21:28:54.030
 !MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:36:56.009
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:36:56.009
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:36:56.666
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:36:56.670
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:37:30.098
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:37:30.098
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:37:30.261
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lzrVIMfs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:37:30.262
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.lzrVIMfs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:37:30.262
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:37:30.262
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lzrVIMfs => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:06.888
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:06.889
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2ffc9be[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:06.889
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.459
+!MESSAGE Boot LS startup time from start to initialized: 1569ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.536
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XOPSkyGOisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.536
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.537
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.537
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.538
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.538
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XOPSkyGO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.544
+!MESSAGE classpath=124 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.548
+!MESSAGE buffering callback sts4.classpath.XOPSkyGO springboot-servicio-item false 124
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.549
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.553
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.556
+!MESSAGE buffering callback sts4.classpath.XOPSkyGO springboot-servicio-productos false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.557
+!MESSAGE executing callback sts4.classpath.XOPSkyGO 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:38:08.874
+!MESSAGE executing callback sts4.classpath.XOPSkyGO SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-01 21:38:31.656
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:38:31.657
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:38:32.249
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:38:32.256
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:26.097
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XOPSkyGO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:26.098
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.XOPSkyGO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:26.098
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:26.098
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XOPSkyGO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:29.314
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:29.315
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2ffc9be[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:29.315
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.864
+!MESSAGE Boot LS startup time from start to initialized: 1548ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.932
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wuyrGbSZisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.933
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.934
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.934
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.934
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.935
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wuyrGbSZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.939
+!MESSAGE classpath=124 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.944
+!MESSAGE buffering callback sts4.classpath.wuyrGbSZ springboot-servicio-item false 124
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.944
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.949
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.953
+!MESSAGE buffering callback sts4.classpath.wuyrGbSZ springboot-servicio-productos false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:30.953
+!MESSAGE executing callback sts4.classpath.wuyrGbSZ 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:44:31.267
+!MESSAGE executing callback sts4.classpath.wuyrGbSZ SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-01 21:44:43.271
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:44:43.272
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:44:45.652
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:44:45.652
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:44:45.696
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:44:45.711
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:04.267
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:04.268
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:04.911
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:04.912
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:07.254
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:07.254
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:07.255
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.wuyrGbSZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:07.255
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.wuyrGbSZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:07.255
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:07.256
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.wuyrGbSZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:10.025
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:10.025
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2ffc9be[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:10.026
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.610
+!MESSAGE Boot LS startup time from start to initialized: 1583ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.692
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JBFzqUZhisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.693
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.694
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.695
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.695
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.695
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JBFzqUZh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.701
+!MESSAGE classpath=124 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.705
+!MESSAGE buffering callback sts4.classpath.JBFzqUZh springboot-servicio-item false 124
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.706
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.710
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.713
+!MESSAGE buffering callback sts4.classpath.JBFzqUZh springboot-servicio-productos false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:11.713
+!MESSAGE executing callback sts4.classpath.JBFzqUZh 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 21:45:12.049
+!MESSAGE executing callback sts4.classpath.JBFzqUZh SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-01 21:45:57.911
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:57.912
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:58.553
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:45:58.586
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:46:02.844
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 21:46:02.844
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:46:03.766
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 21:46:03.766
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:10:11.468
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:10:11.469
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:10:12.064
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:10:12.073
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:16.061
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:16.062
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:16.653
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:16.677
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:29.654
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:29.655
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:30.251
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:30.276
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:43.201
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:43.201
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:43.794
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-08-01 22:13:43.800
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 22:13:44.868
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JBFzqUZh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 22:13:44.869
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.JBFzqUZh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 22:13:44.870
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-01 22:13:44.870
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JBFzqUZh => OK

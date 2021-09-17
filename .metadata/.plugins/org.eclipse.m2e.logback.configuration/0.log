@@ -7388,3 +7388,84 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-09-15 23:58:25,007 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-09-15 23:58:25,009 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-15 23:58:25,009 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources
+2021-09-16 00:06:10,851 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy.springboot.servicio.eureka:springboot-servicio-eureka-server:0.0.1-SNAPSHOT @ C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\pom.xml.
+2021-09-16 00:06:11,235 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-16 00:06:11,235 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-16 00:06:11,236 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-16 00:06:11,237 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-16 00:06:11,237 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources
+2021-09-16 00:06:18,699 [Worker-32: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-16 00:06:18,700 [Worker-32: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2021-09-16 00:06:20,729 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-16 00:06:20,730 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-16 00:06:20,732 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-16 00:06:20,734 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-16 00:06:20,735 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources
+2021-09-16 00:06:36,691 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-09-16 00:06:38,427 [Worker-29: Launching springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-16 00:06:38,428 [Worker-29: Launching springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B  -Dstyle.color=always
+2021-09-16 00:07:16,901 [Worker-31: Launching Executing install in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-16 00:07:16,901 [Worker-31: Launching Executing install in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2021-09-16 00:07:23,127 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-16 00:07:23,127 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-16 00:07:23,128 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-16 00:07:23,130 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-16 00:07:23,130 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources
+2021-09-17 00:25:35,920 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-17 00:28:21,545 [Worker-1: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-17 00:28:21,546 [Worker-1: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2021-09-17 00:28:44,484 [Worker-0: Launching Executing install in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-17 00:28:44,485 [Worker-0: Launching Executing install in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2021-09-17 00:29:52,777 [Worker-2: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/springboot-servicio-eureka-server/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-17 00:29:55,329 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy.springboot.servicio.eureka:springboot-servicio-eureka-server:0.0.1-SNAPSHOT @ C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\pom.xml.
+2021-09-17 00:29:58,409 [Worker-16: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-17 00:29:58,409 [Worker-16: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2021-09-17 00:30:49,040 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy.springboot.servicio.eureka:springboot-servicio-eureka-server:0.0.1-SNAPSHOT @ C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\pom.xml.
+2021-09-17 00:30:50,918 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:30:50,919 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:30:50,924 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-17 00:30:50,924 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-17 00:30:50,929 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:30:50,929 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:30:50,929 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources
+2021-09-17 00:30:53,730 [Worker-2: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-17 00:30:53,731 [Worker-2: Launching Executing clean in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2021-09-17 00:30:55,686 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:30:55,687 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:30:55,695 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-17 00:30:55,712 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-17 00:30:55,713 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:30:55,714 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:30:55,714 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources
+2021-09-17 00:31:00,368 [Worker-18: Launching Executing install in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server
+2021-09-17 00:31:00,369 [Worker-18: Launching Executing install in C__Users_Naki_Documents_ws-springboot_microservicios1_Microservicios-base-udemy_springboot-servicio-eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2021-09-17 00:31:47,988 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:31:47,988 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:31:47,990 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-17 00:31:47,995 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-17 00:31:48,001 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:31:48,002 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:31:48,002 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources
+2021-09-17 00:54:50,927 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:54:50,928 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:54:50,928 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-17 00:54:50,939 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-17 00:54:50,942 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-17 00:54:50,942 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-17 00:54:50,942 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Naki\Documents\ws-springboot\microservicios1\Microservicios-base-udemy\springboot-servicio-eureka-server\src\test\resources

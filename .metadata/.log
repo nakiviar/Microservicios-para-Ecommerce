@@ -16421,3 +16421,330 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY Activator 1 0 2021-10-04 23:31:02.698
 !MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:04.344
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:04.345
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:04.345
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:18.036
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:18.036
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:18.037
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:18.037
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:18.043
+!MESSAGE classpath=137 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:18.047
+!MESSAGE buffering callback sts4.classpath.fWpLQOqm springboot-servicio-productos false 137
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:18.048
+!MESSAGE executing callback sts4.classpath.fWpLQOqm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:18.103
+!MESSAGE executing callback sts4.classpath.fWpLQOqm SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-10-04 23:36:18.675
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:18.705
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:18.721
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-10-04 23:36:19.128
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.0.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:19.128
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:19.128
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.4
+
+!ENTRY Activator 1 0 2021-10-04 23:36:19.543
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:19.543
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:19.547
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-10-04 23:36:19.567
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter:3.0.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:19.567
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:19.567
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter:jar:sources:3.0.4
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-10-04 23:36:28.186
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-loadbalancer:3.0.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:28.186
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:28.186
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.0.4
+
+!ENTRY Activator 1 0 2021-10-04 23:36:30.704
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:30.706
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:30.706
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:31.307
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:31.309
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:31.312
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-10-04 23:36:35.688
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.0.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:35.688
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:35.688
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.4
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-10-04 23:36:36.669
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-loadbalancer:3.0.4
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.4
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:36.669
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.4
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-10-04 23:36:36.669
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.0.4
+
+!ENTRY Activator 1 0 2021-10-04 23:36:37.011
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:37.011
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-10-04 23:36:37.011
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:37.012
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:37.017
+!MESSAGE classpath=137 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:37.022
+!MESSAGE buffering callback sts4.classpath.fWpLQOqm springboot-servicio-productos false 137
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:37.023
+!MESSAGE executing callback sts4.classpath.fWpLQOqm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:36:37.068
+!MESSAGE executing callback sts4.classpath.fWpLQOqm SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-10-04 23:36:37.168
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:37.194
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:36:37.220
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:52.570
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:52.571
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:52.572
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:53.312
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:53.312
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:53.313
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:57.348
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:57.349
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:37:57.349
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:39:27.778
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:39:27.778
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:39:27.779
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:39:29.353
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:39:29.354
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:39:29.354
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:03.737
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:03.738
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:03.738
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:08.191
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:08.192
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:08.192
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:19.262
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:19.262
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:19.263
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:50.218
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:50.219
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:50.220
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:51.265
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:51.265
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-04 23:40:51.266
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'

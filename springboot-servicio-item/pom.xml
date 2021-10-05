@@ -50,10 +50,10 @@
 		</dependency>	
 		
 		<!-- Dependencia RIBBON -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
-		</dependency>
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.springframework.cloud</groupId> -->
+<!-- 			<artifactId>spring-cloud-starter-netflix-ribbon</artifactId> -->
+<!-- 		</dependency> -->
 		<!-- NETFLIX EUREKA CLIENTE: Lo configuramos como un cliente. Esta dependencia incluye Ribbon.-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>

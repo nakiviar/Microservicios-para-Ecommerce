@@ -275,3 +275,30 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-04 23:57:59.405
 !MESSAGE executing callback sts4.classpath.YTHSmvNa SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-10-05 00:01:16.322
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:16.322
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:16.322
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:16.382
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:16.382
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:16.392
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:23.618
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:23.618
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 00:01:23.619
+!MESSAGE Has main method computation for project 'springboot-servicio-item'

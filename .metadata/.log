@@ -302,3 +302,568 @@ java.util.concurrent.TimeoutException
 
 !ENTRY Activator 1 0 2021-10-05 00:01:23.619
 !MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 00:04:03.944
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YTHSmvNa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 00:04:03.945
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YTHSmvNa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 00:04:03.945
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 00:04:03.946
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YTHSmvNa => OK
+!SESSION 2021-10-05 22:07:25.472 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-10-05 22:08:06.743
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-10-05 22:08:06.743
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@34cfdd84,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c7744c1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:10.913
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:10.914
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2aea7775[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:10.925
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:11.136
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-10-05 22:08:11.747
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Naki'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:16.735
+!MESSAGE Boot LS startup time from start to initialized: 5797ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:16.898
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UoTPjpHXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:16.910
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:16.912
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:16.913
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:16.913
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:16.914
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UoTPjpHX => OK
+
+!ENTRY Activator 1 0 2021-10-05 22:08:17.318
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 22:08:17.321
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 22:08:17.329
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.401
+!MESSAGE classpath=137 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.433
+!MESSAGE buffering callback sts4.classpath.UoTPjpHX springboot-servicio-productos false 137
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.434
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.454
+!MESSAGE classpath=137 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.459
+!MESSAGE buffering callback sts4.classpath.UoTPjpHX springboot-servicio-eureka-server false 137
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.460
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.480
+!MESSAGE classpath=158 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.486
+!MESSAGE buffering callback sts4.classpath.UoTPjpHX springboot-servicio-item false 158
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:17.486
+!MESSAGE executing callback sts4.classpath.UoTPjpHX 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 22:08:19.501
+!MESSAGE executing callback sts4.classpath.UoTPjpHX FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-10-05 22:08:19.502
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-10-05 22:08:22.552
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 22:08:22.559
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 22:08:22.561
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY org.eclipse.jface 2 0 2021-10-05 22:47:38.630
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-10-05 22:47:38.630
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@134d6f96,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@15c203cf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-10-05 23:12:39.152
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:94)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseDown(HyperlinkManager.java:408)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:196)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.219
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.220
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.221
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.320
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.321
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.365
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.640
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.641
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.646
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.817
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.818
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:55.818
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:56.261
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:56.262
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:56.264
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:58.997
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:58.998
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:58.999
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:59.062
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:59.074
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:12:59.098
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:00.221
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:00.222
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:00.222
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:00.401
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:00.401
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:00.402
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.814
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.815
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.816
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.861
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.868
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.879
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.991
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.992
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:02.993
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:03.071
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:03.071
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:03.075
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.240
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.241
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.241
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.417
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.417
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.417
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.612
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.613
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.616
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.968
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.968
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:07.968
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:08.671
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:08.671
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:08.672
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:54.789
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:54.790
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:54.792
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.054
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.055
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.056
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.146
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.152
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.187
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.422
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.424
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.424
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.503
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.504
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.508
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.771
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.771
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:56.772
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.361
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.362
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.362
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.512
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.513
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.513
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.715
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.715
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.716
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.978
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.979
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:57.979
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.242
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.243
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.244
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.418
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.418
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.419
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.662
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.663
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:13:58.664
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:02.703
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:02.703
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:02.703
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:03.120
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:03.120
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:03.121
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.404
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.405
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.405
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.542
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.543
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.543
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.989
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.990
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:04.990
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:06.653
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:06.654
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:14:06.654
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:15:33.215
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY Activator 1 0 2021-10-05 23:15:33.216
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:15:33.217
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:15:45.327
+!MESSAGE Has main method computation for project 'springboot-servicio-item'
+
+!ENTRY Activator 1 0 2021-10-05 23:15:45.327
+!MESSAGE Has main method computation for project 'springboot-servicio-eureka-server'
+
+!ENTRY Activator 1 0 2021-10-05 23:15:45.328
+!MESSAGE Has main method computation for project 'springboot-servicio-productos'
+
+!ENTRY org.eclipse.ui 2 2 2021-10-05 23:15:59.741
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 23:17:08.963
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.UoTPjpHX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 23:17:08.964
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.UoTPjpHX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 23:17:08.964
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 23:17:08.968
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.UoTPjpHX => OK
